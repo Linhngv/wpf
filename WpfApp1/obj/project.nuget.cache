@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "jq45vvVwhc4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vongo\\Downloads\\WpfApp\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vongo\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\vongo\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\vongo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "WpfApp1 depends on MaterialDesignThemes (>= 5.0.2) but MaterialDesignThemes 5.0.2 was not found. An approximate best match of MaterialDesignThemes 5.1.0 was resolved.",
+      "libraryId": "MaterialDesignThemes",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\packages\\MaterialDesignColors.3.1.0",
+    "\\packages\\MaterialDesignColors.3.1.0\\docs",
+    "\\packages\\MaterialDesignColors.3.1.0\\images",
+    "\\packages\\MaterialDesignColors.3.1.0\\lib",
+    "\\WpfApp1",
+    "\\WpfApp1\\Views",
+    "\\WpfApp1\\Views\\Admin",
+    "\\WpfApp1\\Views\\Admin\\ShowtimeManagement"
+  ],
+  "SelectedNode": "\\WpfApp1\\App.xaml",
+  "PreviewInSolutionExplorer": false
+}

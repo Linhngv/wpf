@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <BitmapImage x:Key="Mai" UriSource="/images/Mai.jpg"/>
+    <BitmapImage x:Key="do-anh" UriSource="/images/do-anh.jpg"/>
+    <BitmapImage x:Key="lat-mat-7" UriSource="/images/lat-mat-7.jpg"/>
+    <BitmapImage x:Key="quy-cau" UriSource="/images/quy-cau.jpg"/>
+    <BitmapImage x:Key="gia-tai-cua-ngoai" UriSource="/images/gia-tai-cua-ngoai.jpg"/>
+
+    <ControlTemplate x:Key="RoundedButton" TargetType="{x:Type Button}">
+        <Border Background="#A91D3A" BorderThickness="2" CornerRadius="15">
+            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+    </ControlTemplate>
+</ResourceDictionary>
